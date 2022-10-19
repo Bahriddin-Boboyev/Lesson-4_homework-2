@@ -1,0 +1,40 @@
+.commitment{
+  padding-bottom: 256px;
+}
+
+.commitment__box{
+  margin: 0 auto;
+  max-width: 1111px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.commitment__img-box{
+  width: 445px;
+  height: 520px;
+  background-repeat: no-repeat;
+  background-image: url(/img/commitment-img.png);
+  border-radius: 10px;
+}
+
+.commitment__title{
+  max-width: 357px;
+  font-family: 'Fraunces 9pt';
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #333D4B;
+margin-bottom: 32px;
+}
+
+.commitment__text{
+max-width: 540px;
+font-family: 'Barlow';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+mix-blend-mode: normal;
+opacity: 0.8;
+}
