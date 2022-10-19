@@ -131,7 +131,7 @@ img {
 
 .hero__block {
   background-repeat: no-repeat;
-  background-image: url("/img/hero-bg-img.jpg");
+  background-image: url("../img/hero-bg-img.jpg");
   padding-top: 137px;
   padding-bottom: 137px;
   padding-left: 85px;
@@ -178,7 +178,7 @@ img {
   width: 445px;
   height: 520px;
   background-repeat: no-repeat;
-  background-image: url(/img/commitment-img.png);
+  background-image: url(../img/commitment-img.png);
   border-radius: 10px;
 }
 
@@ -251,7 +251,7 @@ img {
   width: 445px;
   height: 474px;
   background-repeat: no-repeat;
-  background-image: url(/img/quality-mg.png);
+  background-image: url(../img/quality-mg.png);
   top: -88px;
   right: 85px;
 }
@@ -297,15 +297,15 @@ img {
 }
 
 .img-1::before {
-  background-image: url(/img/map-1.svg);
+  background-image: url(../img/map-1.svg);
 }
 
 .img-2::before {
-  background-image: url(/img/map-2.svg);
+  background-image: url(../img/map-2.svg);
 }
 
 .img-3::before {
-  background-image: url(/img/map-3.svg);
+  background-image: url(../img/map-3.svg);
 }
 
 .headquarters__title {
